@@ -1,40 +1,6 @@
 # Auto-Image-Generator
 
 ## Main Image
-
-## Main Image
-<p align="center">
-  <img height="300" src="https://github.com/story4media/Ai-Image-Series/blob/main/images/images.jpeg">
-</p>
-
-```
-Without change face 100%, A beautiful South Indian actress with wearing a  pink bra and a style pink saya without saree.  She is posing with her arms on her chest. Filmic quality, soft focus background, vibrant colors."
-```
-## Main Image
-<p align="center">
-  <img height="300" src="https://github.com/story4media/Ai-Image-Series/blob/main/images/images.jpeg">
-</p>
-
-```
-Without change face 100%, A beautiful South Indian actress with wearing a  pink bra and a style pink saya without saree.  She is posing with her arms on her chest. Filmic quality, soft focus background, vibrant colors."
-```
-## Main Image
-<p align="center">
-  <img height="300" src="https://github.com/story4media/Ai-Image-Series/blob/main/images/images.jpeg">
-</p>
-
-```
-Without change face 100%, A beautiful South Indian actress with wearing a  pink bra and a style pink saya without saree.  She is posing with her arms on her chest. Filmic quality, soft focus background, vibrant colors."
-```
-## Main Image
-<p align="center">
-  <img height="300" src="https://github.com/story4media/Ai-Image-Series/blob/main/images/images.jpeg">
-</p>
-
-```
-Without change face 100%, A beautiful young woman with long, dark, wavy hair wearing a navy blue triangle bikini with a colorful, intricate paisley/floral pattern. The bikini bottoms have side ties. The woman is standing and looking directly at the camera with a gentle smile. Studio product shot, clean white background, professional lighting, photorealistic, high detail."
-```
-## Main Image
 <p align="center">
   <img height="300" src="https://github.com/story4media/Ai-Image-Series/blob/main/images/images.jpeg">
 </p>
