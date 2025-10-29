@@ -1,13 +1,7 @@
 # Auto-Image-Generator
 
 ## Main Image
-<p align="center">
-  <img height="300" src="https://github.com/story4media/Ai-Image-Series/blob/main/images/images.jpeg">
-</p>
 
-```
-Without change face 100%, A beautiful South Indian actress with wearing without saree a traditional-style pink blous and a pink saya. She is posing with her arms crossed over her chest. Outdoor setting, Bollywood/Tollywood glamour style, warm lighting. Filmic quality, soft focus background, vibrant colors."
-```
 ## Main Image
 <p align="center">
   <img height="300" src="https://github.com/story4media/Ai-Image-Series/blob/main/images/images.jpeg">
