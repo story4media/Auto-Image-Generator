@@ -16,14 +16,6 @@ Random Generate girls dress color and background as you wish but remain face 100
 </p>
 
 ```
-Random Generate girls dress color and background, as you wish but remain face 100% exact, wear bra and saya
-```
-## Main Image
-<p align="center">
-  <img height="300" src="https://github.com/story4media/Ai-Image-Series/blob/main/images/images.jpeg">
-</p>
-
-```
 Random Generate girls dress color and background, hand style as you wish but remain face 100% exact, wear bra and saya
 ```
 ## Main Image
