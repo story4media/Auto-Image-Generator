@@ -2,7 +2,7 @@
 
 ## Main Image
 <p align="center">
-  ### পোশাক, ব্যাকগ্রাউন্ড পরিবর্তন
+### পোশাক, ব্যাকগ্রাউন্ড পরিবর্তন
   <img height="300" src="https://github.com/story4media/Ai-Image-Series/blob/main/images/images.jpeg">
 </p>
 
