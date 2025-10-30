@@ -50,8 +50,8 @@ Random Generate girls bra color, bikini color, hand style, background, as you wi
 Random Generate girls bra color, bikini color, hand style, bra style, bikini style, background, as you wish but remain face,  100% exact, wear bra and bikini.
 ```
 ## Main Image
-### পোশাকঃ ব্রা ও বিকিনি
-###  পরিবর্তঃ ব্রা কালার, বিকিনি কালার, হাতের স্টাইল, ব্রা স্টাইল, বিকিনি স্টাইল ব্যাকগ্রাউন্ড পরিবর্তন
+#### পোশাকঃ ব্রা ও বিকিনি
+####  পরিবর্তঃ ব্রা কালার, বিকিনি কালার, হাতের স্টাইল, ব্রা স্টাইল, বিকিনি স্টাইল ব্যাকগ্রাউন্ড
 <p align="center">
   <img height="300" src="https://github.com/story4media/Ai-Image-Series/blob/main/images/images.jpeg">
 </p>
