@@ -8,7 +8,6 @@
 ```
 Random Generate girls dress color and background, as you wish but remain face 100% exact, wear bra and bikini
 ```
-## Main Image
 #### পোশাক, ব্যাকগ্রাউন্ড পরিবর্তন
 <p align="center">
   <img height="300" src="https://github.com/story4media/Ai-Image-Series/blob/main/images/images.jpeg">
@@ -49,7 +48,6 @@ Random Generate girls bra color, bikini color, hand style, background, as you wi
 ```
 Random Generate girls bra color, bikini color, hand style, bra style, bikini style, background, as you wish but remain face 100% exact, wear bra and bikini.
 ```
-## Main Image
 #### পোশাকঃ ব্রা ও বিকিনি
 ####  পরিবর্তঃ ব্রা কালার, বিকিনি কালার, হাতের স্টাইল, ব্রা স্টাইল, বিকিনি স্টাইল ব্যাকগ্রাউন্ড
 <p align="center">
@@ -59,7 +57,6 @@ Random Generate girls bra color, bikini color, hand style, bra style, bikini sty
 ```
 Random Generate girls bra color, bikini color, hand style, bra style, bikini style, background, as you wish but remain face 100% exact, wear bra and bikini. Full hd image, change pose style
 ```
-## Main Image
 #### পোশাকঃ ব্লাউজ, বিকিনি, হাতে ফোন
 ####  পরিবর্তঃ ব্লাউজ কালার, বিকিনি কালার, ব্লাউজ স্টাইল, বিকিনি স্টাইল ব্যাকগ্রাউন্ড, পোজ স্টাইল, বডি স্টাইল
 <p align="center">
@@ -69,7 +66,6 @@ Random Generate girls bra color, bikini color, hand style, bra style, bikini sty
 ```
 Random Generate girls blouse color, bikini color, blouse style, bikini style, background, as you wish but remain face 100% exact, wear blouse, and bikini. Remain phone on this hand. Full hd image, change pose style, body style
 ```
-## Main Image
 #### পোশাকঃ ব্রা, বিকিনি, হাতে ফোন
 ####  পরিবর্তঃ ব্রা কালার, বিকিনি কালার, ব্রা স্টাইল, বিকিনি স্টাইল ব্যাকগ্রাউন্ড, পোজ স্টাইল, বডি স্টাইল
 <p align="center">
@@ -79,7 +75,6 @@ Random Generate girls blouse color, bikini color, blouse style, bikini style, ba
 ```
 Random Generate girls bra color, bikini color, bra style, bikini style, background, as you wish but remain face 100% exact, wear bra, and bikini. Remain phone on this hand. Full hd image, change pose style, body style
 ```
-## Main Image
 #### পোশাকঃ একই ব্লাউজ, বিকিনি
 ####  পরিবর্তঃ ব্যাকগ্রাউন্ড, বিকিনি, পোজ স্টাইল, বডি স্টাইল
 <p align="center">
@@ -89,7 +84,6 @@ Random Generate girls bra color, bikini color, bra style, bikini style, backgrou
 ```
 Random Generate background, bikini, as you wish but remain face, blouse 100% exact, wear blouse, and bikini. Full HD image, change pose style, body style
 ```
-## Main Image
 #### পোশাকঃ পোশাক পরিবর্তন না করে
 ####  পরিবর্তঃ মেয়েটির স্টাইল, হাতের স্টাইল, পায়ে স্টাইল
 <p align="center">
