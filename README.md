@@ -80,12 +80,14 @@ Random Generate girls blouse color, bikini color, blouse style, bikini style, ba
 Random Generate girls bra color, bikini color, bra style, bikini style, background, as you wish but remain face 100% exact, wear bra, and bikini. Remain phone on this hand. Full hd image, change pose style, body style
 ```
 ## Main Image
+#### পোশাকঃ একই ব্লাউজ, বিকিনি
+####  পরিবর্তঃ ব্যাকগ্রাউন্ড, বিকিনি, পোজ স্টাইল, বডি স্টাইল
 <p align="center">
   <img height="300" src="https://github.com/story4media/Ai-Image-Series/blob/main/images/images.jpeg">
 </p>
 
 ```
-Random Generate background, bikini, as you wish but remain face, blouse 100% exact, wear blouse, and bikini. Full hd image, change pose style, body style
+Random Generate background, bikini, as you wish but remain face, blouse 100% exact, wear blouse, and bikini. Full HD image, change pose style, body style
 ```
 ## Main Image
 <p align="center">
