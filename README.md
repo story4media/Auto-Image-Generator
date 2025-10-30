@@ -1,6 +1,5 @@
 # Auto-Image-Generator
 
----
 #### পোশাকঃ ফুল পোশাক
 ####  পরিবর্তঃ পোশাক কালার, ব্যাকগ্রাউন্ড
 <p align="center">
@@ -20,6 +19,7 @@ Random Generate girls dress color and background as you wish but remain face 100
 ```
 Random Generate girls bra color and background, hand style as you wish but remain face 100% exact, wear bra and Saya
 ```
+---
 #### পোশাকঃ শায়া ও ব্লাউজ থেকে ব্রা ও বিকিনিতে পরিবর্তন
 ####  পরিবর্তঃ ব্রা কালার, বিকিনি কালার, হাতের স্টাইল, ব্যাকগ্রাউন্ড
 <p align="center">
@@ -29,6 +29,7 @@ Random Generate girls bra color and background, hand style as you wish but remai
 ```
 Random Generate girls bra color, bikini color, hand style, background, as you wish but remain face 100% exact, wear bra and bikini.
 ```
+---
 #### পোশাকঃ ব্রা ও বিকিনি
 ####  পরিবর্তঃ ব্রা কালার, বিকিনি কালার, হাতের স্টাইল, ব্রা স্টাইল, বিকিনি স্টাইল, ব্যাকগ্রাউন্ড
 <p align="center">
@@ -38,6 +39,7 @@ Random Generate girls bra color, bikini color, hand style, background, as you wi
 ```
 Random Generate girls bra color, bikini color, hand style, bra style, bikini style, background, as you wish but remain face 100% exact, wear bra and bikini.
 ```
+---
 #### পোশাকঃ ব্রা ও বিকিনি
 ####  পরিবর্তঃ ব্রা কালার, বিকিনি কালার, হাতের স্টাইল, ব্রা স্টাইল, বিকিনি স্টাইল ব্যাকগ্রাউন্ড
 <p align="center">
@@ -47,6 +49,7 @@ Random Generate girls bra color, bikini color, hand style, bra style, bikini sty
 ```
 Random Generate girls bra color, bikini color, hand style, bra style, bikini style, background, as you wish but remain face 100% exact, wear bra and bikini. Full hd image, change pose style
 ```
+---
 #### পোশাকঃ ব্লাউজ, বিকিনি, হাতে ফোন
 ####  পরিবর্তঃ ব্লাউজ কালার, বিকিনি কালার, ব্লাউজ স্টাইল, বিকিনি স্টাইল ব্যাকগ্রাউন্ড, পোজ স্টাইল, বডি স্টাইল
 <p align="center">
@@ -56,6 +59,7 @@ Random Generate girls bra color, bikini color, hand style, bra style, bikini sty
 ```
 Random Generate girls blouse color, bikini color, blouse style, bikini style, background, as you wish but remain face 100% exact, wear blouse, and bikini. Remain phone on this hand. Full hd image, change pose style, body style
 ```
+---
 #### পোশাকঃ ব্রা, বিকিনি, হাতে ফোন
 ####  পরিবর্তঃ ব্রা কালার, বিকিনি কালার, ব্রা স্টাইল, বিকিনি স্টাইল ব্যাকগ্রাউন্ড, পোজ স্টাইল, বডি স্টাইল
 <p align="center">
@@ -65,6 +69,7 @@ Random Generate girls blouse color, bikini color, blouse style, bikini style, ba
 ```
 Random Generate girls bra color, bikini color, bra style, bikini style, background, as you wish but remain face 100% exact, wear bra, and bikini. Remain phone on this hand. Full hd image, change pose style, body style
 ```
+---
 #### পোশাকঃ একই ব্লাউজ, বিকিনি
 ####  পরিবর্তঃ ব্যাকগ্রাউন্ড, বিকিনি, পোজ স্টাইল, বডি স্টাইল
 <p align="center">
@@ -74,6 +79,7 @@ Random Generate girls bra color, bikini color, bra style, bikini style, backgrou
 ```
 Random Generate background, bikini, as you wish but remain face, blouse 100% exact, wear blouse, and bikini. Full HD image, change pose style, body style
 ```
+---
 #### পোশাকঃ পোশাক পরিবর্তন না করে
 ####  পরিবর্তঃ মেয়েটির স্টাইল, হাতের স্টাইল, পায়ে স্টাইল
 <p align="center">
