@@ -6,7 +6,7 @@
 </p>
 
 ```
-Random Generate girls dress color and background, as you wish but remain face,  100% exact, wear bra and bikini
+Random Generate girls dress color and background, as you wish but remain face 100% exact, wear bra and bikini
 ```
 ## Main Image
 #### পোশাক, ব্যাকগ্রাউন্ড পরিবর্তন
@@ -15,7 +15,7 @@ Random Generate girls dress color and background, as you wish but remain face,  
 </p>
 
 ```
-Random Generate girls dress color and background, as you wish but remain face,  100% exact
+Random Generate girls dress color and background, as you wish but remain face 100% exact
 ```
 ## Main Image
 <p align="center">
@@ -23,7 +23,7 @@ Random Generate girls dress color and background, as you wish but remain face,  
 </p>
 
 ```
-Random Generate girls dress color and background, as you wish but remain face,  100% exact, wear bra and saya
+Random Generate girls dress color and background, as you wish but remain face 100% exact, wear bra and saya
 ```
 ## Main Image
 <p align="center">
@@ -31,7 +31,7 @@ Random Generate girls dress color and background, as you wish but remain face,  
 </p>
 
 ```
-Random Generate girls dress color and background, hand style as you wish but remain face,  100% exact, wear bra and saya
+Random Generate girls dress color and background, hand style as you wish but remain face 100% exact, wear bra and saya
 ```
 ## Main Image
 <p align="center">
@@ -39,7 +39,7 @@ Random Generate girls dress color and background, hand style as you wish but rem
 </p>
 
 ```
-Random Generate girls bra color, bikini color, hand style, background, as you wish but remain face,  100% exact, wear bra and bikini.
+Random Generate girls bra color, bikini color, hand style, background, as you wish but remain face 100% exact, wear bra and bikini.
 ```
 ## Main Image
 <p align="center">
@@ -47,7 +47,7 @@ Random Generate girls bra color, bikini color, hand style, background, as you wi
 </p>
 
 ```
-Random Generate girls bra color, bikini color, hand style, bra style, bikini style, background, as you wish but remain face,  100% exact, wear bra and bikini.
+Random Generate girls bra color, bikini color, hand style, bra style, bikini style, background, as you wish but remain face 100% exact, wear bra and bikini.
 ```
 ## Main Image
 #### পোশাকঃ ব্রা ও বিকিনি
@@ -57,25 +57,27 @@ Random Generate girls bra color, bikini color, hand style, bra style, bikini sty
 </p>
 
 ```
-Random Generate girls bra color, bikini color, hand style, bra style, bikini style, background, as you wish but remain face,  100% exact, wear bra and bikini. Full hd image, change pose style
+Random Generate girls bra color, bikini color, hand style, bra style, bikini style, background, as you wish but remain face 100% exact, wear bra and bikini. Full hd image, change pose style
+```
+## Main Image
+#### পোশাকঃ ব্লাউজ, বিকিনি, হাতে ফোন
+####  পরিবর্তঃ ব্লাউজ কালার, বিকিনি কালার, ব্লাউজ স্টাইল, বিকিনি স্টাইল ব্যাকগ্রাউন্ড, পোজ স্টাইল, বডি স্টাইল
+<p align="center">
+  <img height="300" src="https://github.com/story4media/Ai-Image-Series/blob/main/images/images.jpeg">
+</p>
+
+```
+Random Generate girls blouse color, bikini color, blouse style, bikini style, background, as you wish but remain face 100% exact, wear blouse, and bikini. Remain phone on this hand. Full hd image, change pose style, body style
 ```
 ## Main Image
 #### পোশাকঃ ব্রা, বিকিনি, হাতে ফোন
-####  পরিবর্তঃ ব্রা কালার, বিকিনি কালার, হাতের স্টাইল, ব্রা স্টাইল, বিকিনি স্টাইল ব্যাকগ্রাউন্ড, পোজ স্টাইল
+####  পরিবর্তঃ ব্রা কালার, বিকিনি কালার, ব্রা স্টাইল, বিকিনি স্টাইল ব্যাকগ্রাউন্ড, পোজ স্টাইল, বডি স্টাইল
 <p align="center">
   <img height="300" src="https://github.com/story4media/Ai-Image-Series/blob/main/images/images.jpeg">
 </p>
 
 ```
-Random Generate girls blouse color, bikini color, blouse style, bikini style, background, as you wish but remain face,  100% exact, wear blouse, and bikini. Remain phone on this hand. Full hd image, change pose style, body style
-```
-## Main Image
-<p align="center">
-  <img height="300" src="https://github.com/story4media/Ai-Image-Series/blob/main/images/images.jpeg">
-</p>
-
-```
-Random Generate girls bra color, bikini color, bra style, bikini style, background, as you wish but remain face,  100% exact, wear bra, and bikini. Remain phone on this hand. Full hd image, change pose style, body style
+Random Generate girls bra color, bikini color, bra style, bikini style, background, as you wish but remain face 100% exact, wear bra, and bikini. Remain phone on this hand. Full hd image, change pose style, body style
 ```
 ## Main Image
 <p align="center">
