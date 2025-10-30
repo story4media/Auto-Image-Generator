@@ -17,7 +17,7 @@ Random Generate girls dress color and background as you wish but remain face 100
 </p>
 
 ```
-Random Generate girls bra color and background, hand style as you wish but remain face 100% exact, wear bra and Saya
+Random Generate girls bra color and background, hand style, style red bindi as you wish but remain face, ornaments, shakha 100% real, wear bra and Saya only
 ```
 ---
 #### পোশাকঃ শায়া ও ব্লাউজ থেকে ব্রা ও বিকিনিতে পরিবর্তন
