@@ -8,7 +8,8 @@
 ```
 Random Generate girls dress color and background, as you wish but remain face 100% exact, wear bra and bikini
 ```
-#### পোশাক, ব্যাকগ্রাউন্ড পরিবর্তন
+<div style: border=1px black>
+  #### পোশাক, ব্যাকগ্রাউন্ড পরিবর্তন
 <p align="center">
   <img height="300" src="https://github.com/story4media/Ai-Image-Series/blob/main/images/images.jpeg">
 </p>
@@ -16,6 +17,7 @@ Random Generate girls dress color and background, as you wish but remain face 10
 ```
 Random Generate girls dress color and background, as you wish but remain face 100% exact
 ```
+</div>
 ## Main Image
 <p align="center">
   <img height="300" src="https://github.com/story4media/Ai-Image-Series/blob/main/images/images.jpeg">
