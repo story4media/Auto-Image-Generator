@@ -7,7 +7,7 @@
 </p>
 
 ```
-Random Generate girls dress color and background, style red bindi as you wish but remain face, ornaments, shakha.
+Random Generate girls dress color and background, style red bindi as you wish but remain face, ornaments, shakha 100% real
 ```
 ---
 #### পোশাকঃ শাড়ি পরা ছবি থেকে ব্রা ও শায়াতে পরিবর্তন
