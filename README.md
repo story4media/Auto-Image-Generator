@@ -19,6 +19,15 @@ Random Generate girls style, hand style, leg style, background, style red bindi 
 ```
 Random Generate girls dress color and background, style red bindi as you wish but remain face, ornaments, shakha 100% real
 ```
+#### পোশাকঃ শাড়ি পরা ছবি থেকে ব্লাউজ ও শায়াতে পরিবর্তন
+####  পরিবর্তঃ ব্রা কালার, ব্যাকগ্রাউন্ড
+<p align="center">
+  <img height="300" src="https://github.com/story4media/Ai-Image-Series/blob/main/images/images.jpeg">
+</p>
+
+```
+Random Generate girls blouse color and background, hand style, style red bindi as you wish but remain face, ornaments, shakha 100% real, wear blouse and Saya only
+```
 
 #### পোশাকঃ একই ব্লাউজ, বিকিনি
 ####  পরিবর্তঃ ব্যাকগ্রাউন্ড, বিকিনি, পোজ স্টাইল, বডি স্টাইল
@@ -81,6 +90,16 @@ Random Generate girls bra color, bikini color, hand style, bra style, bikini sty
 
 ```
 Random Generate girls bra color, bikini color, bra style, bikini style, background, style red bindi as you wish but remain face, ornaments, shakha 100% real, wear bra, and bikini. Remain phone on this hand. Full hd image, change pose style, body style
+```
+
+#### পোশাকঃ ব্রা, বিকিনি, হাতে ব্লাউজ
+####  পরিবর্তঃ ব্রা কালার, বিকিনি কালার, ব্রা স্টাইল, বিকিনি স্টাইল ব্যাকগ্রাউন্ড, পোজ স্টাইল, বডি স্টাইল
+<p align="center">
+  <img height="300" src="https://github.com/story4media/Ai-Image-Series/blob/main/images/images.jpeg">
+</p>
+
+```
+Random Generate girls bra color, bikini color, bra style, bikini style, background, style red bindi as you wish but remain face, ornaments, shakha 100% real, wear bra, and bikini. Remain blouse on her hand. Full hd image, change pose style, body style
 ```
 ---
 ---
