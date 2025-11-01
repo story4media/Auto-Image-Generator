@@ -1,7 +1,7 @@
 # Auto-Image-Generator
 
 #### পোশাকঃ পোশাক পরিবর্তন না করে
-####  পরিবর্তঃ মেয়েটির স্টাইল, হাতের স্টাইল, পায়ে স্টাইল
+####  পরিবর্তঃ মেয়েটির স্টাইল, হাতের স্টাইল, পায়ের স্টাইল
 <p align="center">
   <img height="300" src="https://github.com/story4media/Ai-Image-Series/blob/main/images/images.jpeg">
 </p>
@@ -33,7 +33,7 @@ Random Generate girls blouse color and background, hand style, style red bindi a
 ```
 
 ---
-#### পোশাকঃ একই ব্লাউজ, বিকিনি
+#### পোশাকঃ একই ব্লাউজ, পেন্টি
 ####  পরিবর্তঃ ব্যাকগ্রাউন্ড, বিকিনি, পোজ স্টাইল, বডি স্টাইল
 <p align="center">
   <img height="300" src="https://github.com/story4media/Ai-Image-Series/blob/main/images/images.jpeg">
