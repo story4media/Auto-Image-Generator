@@ -43,6 +43,16 @@ Random Generate girls blouse color and background, hand style, style red bindi a
 Random Generate girls hand style, pose style, body style as you wish but remain (face, ornaments, shakha, blouse color, red bindi color) 100% exact this image. wear blouse and Saya only. Background not change. ‍saya color must match with blouse color
 ```
 
+---
+#### পোশাকঃ একই ব্লাউজ, পেন্টি
+####  পরিবর্তঃ ব্যাকগ্রাউন্ড, বিকিনি, পোজ স্টাইল, বডি স্টাইল
+<p align="center">
+  <img height="300" src="https://github.com/story4media/Ai-Image-Series/blob/main/images/images.jpeg">
+</p>
+
+```
+Random Generate hand style, pose style, body style as you wish but remain (face, ornaments, shakha, blouse color, red bindi color) 100% exact this image. wear blouse and panti only. Background not change.panti color must match with blouse color
+```
 
 ---
 #### পোশাকঃ একই ব্লাউজ, পেন্টি
