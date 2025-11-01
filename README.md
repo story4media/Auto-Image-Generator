@@ -51,7 +51,7 @@ Random Generate girls hand style, pose style, body style as you wish but remain 
 </p>
 
 ```
-Random Generate hand style, pose style, body style as you wish but remain (face, ornaments, shakha, blouse color, red bindi color) 100% exact this image. wear blouse and panti only. Background not change.panti color must match with blouse color
+Random Generate hand style, pose style, body style as you wish but remain (face, ornaments, shakha, blouse color, red bindi color, panti color) 100% exact this image. wear blouse and panti. Background not change.
 ```
 
 ---
